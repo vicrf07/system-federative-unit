@@ -1,0 +1,6 @@
+br\com\primeiroprojeto\model\City.class
+br\com\dao\DAO.class
+br\com\dao\impl\UfDao.class
+br\com\primeiroprojeto\controller\UfBean.class
+br\com\managedbean\PrimeiroManagedBean.class
+br\com\primeiroprojeto\model\Uf.class
